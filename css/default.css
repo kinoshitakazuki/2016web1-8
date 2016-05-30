@@ -1,4 +1,14 @@
 body{
 background-color:mediumquamarine;
 }
-.
+.breadcrumbs 1i{
+  display:inline;
+  list-style-type:none;
+  
+}
+.breadcrumbs 1i:befor{
+  content">";
+}
+.breadcrumbs 1i:first-child:before{
+  content:"";
+}
