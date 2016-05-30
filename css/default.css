@@ -7,7 +7,7 @@ background-color:mediumquamarine;
   list-style-type:none;
   
 }
-.breadcrumbs li:befor{
+.breadcrumbs li:before{
   content:">";
 }
 .breadcrumbs li:first-child:before{
