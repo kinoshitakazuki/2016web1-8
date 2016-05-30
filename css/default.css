@@ -2,14 +2,14 @@
 body{
 background-color:mediumquamarine;
 }
-.breadcrumbs 1i{
+.breadcrumbs li{
   display:inline;
   list-style-type:none;
   
 }
-.breadcrumbs 1i:befor{
+.breadcrumbs li:befor{
   content:">";
 }
-.breadcrumbs 1i:first-child:before{
+.breadcrumbs li:first-child:before{
   content:"";
 }
