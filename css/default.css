@@ -13,3 +13,16 @@ background-color:mediumquamarine;
 .breadcrumbs li:first-child:before{
   content:"";
 }
+  
+ #gnav  u1{
+   overflow:hidden;
+}
+#gnav li{
+  foloat:left;
+  width:150px;
+  border-right:white 1px solid;
+  list=style-typ:none;
+}
+#gnav li:first-child{
+  border-left:white 1px solid;
+}
